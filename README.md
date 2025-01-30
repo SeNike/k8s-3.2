@@ -23,6 +23,14 @@
 3. Запуск etcd производить на мастере.
 4. Способ установки выбрать самостоятельно.
 
+С помощю terraform создаем 5 вриткальных машин:
+
+![IMG](https://github.com/SeNike/Study_24/blob/main/k8s/3.2/1.png)
+
+С помощью kubespray поднимаем кластер:
+
+![IMG](https://github.com/SeNike/Study_24/blob/main/k8s/3.2/2.png)
+
 
 ### Правила приёма работы
 
